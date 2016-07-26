@@ -1,0 +1,27 @@
+/*
+Theme Name: Athena Child
+Description: Child theme for Folo theme
+Author: Smartcat
+Template: athena
+*/
+   
+div.site-info {
+    background: transparent;
+    color: #e1e1e1;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+}
+
+p {
+	color: lightgrey;
+}
+input.search-submit {
+	background: lightskyblue;
+}
+input {
+background: lightskyblue;	
+}
+div.athena-footer{
+	background: lightskyblue;
+}
