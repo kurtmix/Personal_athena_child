@@ -14,7 +14,7 @@ div.site-info {
 }
 
 p {
-	color: lightgrey;
+	color: lightskyblue;
 }
 input.search-submit {
 	background: lightskyblue;
@@ -24,4 +24,13 @@ background: lightskyblue;
 }
 div.athena-footer{
 	background: lightskyblue;
+}
+h1{
+	color:lightskyblue;
+}
+footer.colophon.site-footer {
+	background-color: #34495e;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary{
+	background-color: #34495e;
 }
